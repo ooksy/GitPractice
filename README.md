@@ -1,6 +1,6 @@
 # GitPractice
 
-### Simple git project
+## Simple git project
 
 ## Authors
 Seoyeon, Ok ooksy1@tamu.edu
